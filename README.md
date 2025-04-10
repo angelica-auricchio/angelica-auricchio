@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I've been a Computer Scientist since 2005.
+I've been a Software Engineer.
 I’m a curious soul who loves learning about different subjects — because I truly believe everything is connected.
 
 Currently, I’m diving deep into **Data Analysis** and sharpening my **Software Engineering** skills.
